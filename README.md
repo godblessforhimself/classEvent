@@ -1,5 +1,6 @@
 # classEvent
 fees for class
+当前班费：437.72RMB
 
 交接班费，收到 661 + 518.3 = 1179.3 Rmb，由李品农确认
 
